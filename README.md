@@ -1,6 +1,3 @@
-Here's a README file draft for your GitHub project:
-
----
 
 # Income Inequality and Demographic Factors: An Analytical Study
 
